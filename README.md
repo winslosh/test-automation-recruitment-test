@@ -55,7 +55,7 @@ Please answer the following questions in a markdown file called `Answers to tech
 
 ## :trophy:Finished?
 
-:triangular_flag_on_post:Please commit your project to your GitHub and name your repository using the format `{yourname}-{role-applied-for}`and ensure it is set to **Public** .
+:triangular_flag_on_post:Please commit your project to your GitHub and ensure it is set to **Public** .
 
 **Your repository should include:** 
 
