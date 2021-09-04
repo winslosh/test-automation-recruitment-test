@@ -10,12 +10,7 @@ Test Developer Recruitment Test
 ### Before You Start
 You will be committing your code to [GitHub](http://github.com) so please create an account if you do not already have one. 
 
-**Your project repository should include:** 
 
-1. a folder containing the technical tests
-2. a single markdown file with the answers to the technical questions
-
-:triangular_flag_on_post:Please name your repository in the format `{yourname}-{role-applied-for}`and ensure it is set to **Public** .
 
 ## :computer:Technical Test
 
@@ -59,6 +54,13 @@ Please answer the following questions in a markdown file called `Answers to tech
 3. How would you implement test automation in a legacy application? Have you ever had to do this?
 
 ## :trophy:Finished?
+
+:triangular_flag_on_post:Please commit your project to your GitHub and name your repository using the format `{yourname}-{role-applied-for}`and ensure it is set to **Public** .
+
+**Your repository should include:** 
+
+1. a folder containing the technical tests
+2. a single markdown file with the answers to the technical questions
 
 :e-mail: Once you've completed all that's required, please send the url of your GitHub repository to your recruitment contact for us to review.
 
