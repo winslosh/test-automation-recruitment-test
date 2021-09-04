@@ -50,7 +50,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Please create a README file detailing said instructions. 
 - Please also use this README for listing any additional comments or observations you might want to share about your submission.
 
-# :speech_balloon:Technical questions
+## :speech_balloon:Technical questions
 
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
@@ -58,7 +58,11 @@ Please answer the following questions in a markdown file called `Answers to tech
 2. What do you think is the most interesting trend in test automation?
 3. How would you implement test automation in a legacy application? Have you ever had to do this?
 
-## What we review
+## :trophy:Finished?
+
+:e-mail: Once you've completed all that's required, please send the url of your GitHub repository to your recruitment contact for us to review.
+
+### :heavy_check_mark:What we review
 
 * **Correctness:** Do your tests compile and run?  
 * **Code Quality:** Is your code maintainable, easy to understand, and conducive for future reuse or expansion?
