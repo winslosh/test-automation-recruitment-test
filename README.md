@@ -8,7 +8,7 @@ Test Developer Recruitment Test
 * [A few technical questions](#technical-questions)
 
 ### Before You Start
-You will be committing your code to [GitHub](http://github.com) so please create an account if you do not already have one. 
+You will be committing your code and answers to [GitHub](http://github.com) so please create an account if you do not already have one. 
 
 
 
