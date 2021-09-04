@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Technical Test
 
-We have a demo ecommerce site hosted on Azure. 
+We have a [demo ecommerce](http://104.42.251.168/) site that you will be using.
 
 The Technical test consists of 2 tasks:
 
