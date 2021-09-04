@@ -62,7 +62,7 @@ Please answer the following questions in a markdown file called `Answers to tech
 1. a folder containing the technical tests
 2. a single markdown file with the answers to the technical questions
 
-:e-mail: Once you've completed all that's required, please send the url of your GitHub repository to your recruitment contact for us to review.
+:e-mail: Once you've completed all that's required, send the url of your GitHub repository to your recruitment contact for us to review.
 
 ### :heavy_check_mark:What we review
 
