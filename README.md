@@ -15,21 +15,22 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Technical Test
 
-We have a demo website setup for our upcoming product ![Shoppr - A Customer Science Platform for E-Commerce](https://shoppr.ai). You'll receive an email with the demo site url and credentials for the same. 
+We have a demo ecommerce site hosted on Azure. 
+
 The Technical test consists of 2 tasks:
 
 1. Write the step definitions for the below scenario.
 
-		Feature: Allow user to register on the platform
+		Feature: Allow user to register on the site
 				As a user of the registration page of the demo website
 				When I provide valid unique credentials
 				An account is created for me
-			Scenario: Invalid credentials
+			  Scenario: Invalid credentials
 				As a user of the registration page of the demo website
 				When I provide an email that has already been used in the system
 				I see an appropriate error message
 
-2. Add  two more test cases, with corresponding feature, scenario and step definitions, which you feel would enhance the test coverage of the site.
+2. Add two more test cases, with corresponding feature, scenario and step definitions, which you feel would enhance the test coverage of the site.
 
 
 ### Platform Choice
@@ -50,7 +51,6 @@ Please answer the following questions in a markdown file called `Answers to tech
 1. How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time on the technical test then use this as an opportunity to explain what you would add.
 2. What do you think is the most interesting trend in test automation?
 3. How would you implement test automation in a legacy application? Have you ever had to do this?
-4. Please describe yourself using JSON.
 
 ## What we review
 
