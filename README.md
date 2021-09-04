@@ -8,7 +8,7 @@ Test Developer Recruitment Test
 * [A few technical questions](#technical-questions)
 
 ### Before You Start
-You will be committing your code and answers to [GitHub](http://github.com) so please create an account if you do not already have one. 
+You will be committing your code and answers to [GitHub](http://github.com) so you will need to create an account if you do not already have one. 
 
 
 
@@ -40,14 +40,14 @@ You can create step definitions using any testing framework you are experienced 
 
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.  
 
-- Please complete the two tasks described above.
+- Complete the two tasks described above.
 - You should provide clear instructions on your test setup and how to execute your tests. The clarity and precision of these instructions - and the ease with which the interviewers can execute them - will be a key part of the assessment. 
-- Please create a README file detailing said instructions. 
+- Create a README file detailing said instructions. 
 - Please also use this README for listing any additional comments or observations you might want to share about your submission.
 
 ## :speech_balloon:Technical questions
 
-Please answer the following questions in a markdown file called `Answers to technical questions.md`.
+Answer the following questions in a markdown file called `Answers to technical questions.md`.
 
 1. How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time on the technical test then use this as an opportunity to explain what you would add.
 2. What do you think is the most interesting trend in test automation?
