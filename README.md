@@ -7,7 +7,7 @@ Test Developer Recruitment Test
 * [A few technical questions](https://github.com/winslosh/test-automation-recruitment-test/blob/main/README.md#speech_balloontechnical-questions)
 
 ### Before You Start
-You will be committing your code and answers to [GitHub](http://github.com) so you will need to create an account if you do not already have one. 
+You will be committing your code and answers to your repo on [GitHub](http://github.com) so you will need to create an account if you do not already have one. 
 
 
 
