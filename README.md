@@ -1,11 +1,10 @@
-
 Test Developer Recruitment Test
 ==================================
 
 :rocket:Thank you for taking the time to do our technical test. It consists of two parts::rocket:
 
-* [A technical test](## :computer:Technical Test)
-* [A few technical questions](## :speech_balloon:Technical questions)
+* [A technical test](#technical-test)
+* [A few technical questions](#technical-questions)
 
 ### Before You Start
 You will be committing your code and answers to [GitHub](http://github.com) so you will need to create an account if you do not already have one. 
@@ -46,7 +45,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Create a README file detailing said instructions. 
 - Please also use this README for listing any additional comments or observations you might want to share about your submission.
 
-## :speech_balloon:Technical questions
+## :speech_balloon:Technical Questions
 
 Answer the following questions in a markdown file called `Answers to technical questions.md`.
 
