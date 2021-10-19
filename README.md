@@ -18,18 +18,19 @@ We have a [demo ecommerce](http://104.42.251.168/) site that you will be using.
 
 The Technical test consists of 2 tasks:
 
-1. Write the step definitions for the below scenario.
+1. Write test cases for the below feature / scenarios.
 
-		Feature: Allow user to register on the site
+		       Feature: Allow user to register on the site
 				As a user of the registration page of the demo website
 				When I provide valid unique credentials
 				An account is created for me
-			  Scenario: Invalid credentials
+			  
+		      Scenario: Invalid credentials
 				As a user of the registration page of the demo website
 				When I provide an email that has already been used in the system
 				I see an appropriate error message
 
-2. Add two more test cases, with corresponding feature, scenario and step definitions, which you feel would enhance the test coverage of the site.
+2. Add two more test cases which you feel would enhance the test coverage of the site.
 
 
 ### :file_folder:Platform Choice
