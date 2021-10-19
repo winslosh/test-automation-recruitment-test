@@ -11,7 +11,7 @@ You will be committing your code and answers to [GitHub](http://github.com) so y
 
 
 
-## :computer:Technical Test
+# :computer:Technical Test
 
 We have a [demo ecommerce](http://104.42.251.168/) site that you will be using.
 
@@ -45,7 +45,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Create a README file detailing said instructions. 
 - Please also use this README for listing any additional comments or observations you might want to share about your submission.
 
-## :speech_balloon:Technical Questions
+# :speech_balloon:Technical Questions
 
 Answer the following questions in a markdown file called `Answers to technical questions.md`.
 
