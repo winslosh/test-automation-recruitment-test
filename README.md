@@ -3,7 +3,7 @@ Test Developer Recruitment Test
 
 :rocket:Thank you for taking the time to do our technical test. It consists of two parts::rocket:
 
-* [A technical test](#technical-test)
+* [A technical test](https://github.com/winslosh/test-automation-recruitment-test/blob/main/README.md#computertechnical-test)
 * [A few technical questions](https://github.com/winslosh/test-automation-recruitment-test/blob/main/README.md#speech_balloontechnical-questions)
 
 ### Before You Start
