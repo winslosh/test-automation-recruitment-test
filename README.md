@@ -4,8 +4,8 @@ Test Developer Recruitment Test
 
 :rocket:Thank you for taking the time to do our technical test. It consists of two parts::rocket:
 
-* [A technical test](#technical-test)
-* [A few technical questions](#technical-questions)
+* [A technical test](## :computer:Technical Test)
+* [A few technical questions](## :speech_balloon:Technical questions)
 
 ### Before You Start
 You will be committing your code and answers to [GitHub](http://github.com) so you will need to create an account if you do not already have one. 
