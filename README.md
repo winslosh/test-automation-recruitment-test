@@ -71,3 +71,8 @@ Feel free to spend as much or as little time on the exercise as you like as long
 * **Code Quality:** Is your code maintainable, easy to understand, and conducive for future reuse or expansion?
 * **Quality Focused:** Does your choice of test case scenarios provide adequate, given the limits, confidence in the quality of the web app tested?
 * **Communication:** Are you able to explain why you picked your test case scenarios and what they do in your README and through other forms of communication?
+
+
+![Good Luck!](http://i.imgur.com/DHxjAeQ.jpg)
+
+#### :wave:Thanks for your time, we look forward to hearing from you!
