@@ -13,7 +13,7 @@ You will be committing your code and answers to your repo on [GitHub](http://git
 
 # :computer:Technical Test
 
-We have a [demo ecommerce](http://20.5.68.248) site that you will be using.
+We have a [demo ecommerce]site that you will be using.
 
 The Technical test consists of 2 tasks:
 
