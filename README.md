@@ -11,26 +11,35 @@ You will be committing your code and answers to your repo on [GitHub](http://git
 
 
 
-# :computer:Technical Test
+# 🖥️ Technical Test
 
 We have a [demo ecommerce](https://magento.softwaretestingboard.com/) site that you will be using.
 
-The Technical test consists of 2 tasks:
+The Technical test consists of 3 tasks:
 
-**Task 1. Write test cases for the below feature / scenarios.**
+## Task 1. Write test scenarios for the below feature
 
-		       Feature: Allow user to register on the site
-				As a user of the registration page of the demo website
-				When I provide valid unique credentials
-				An account is created for me
-			  
-		      Scenario: Invalid credentials
-				As a user of the registration page of the demo website
-				When I provide an invalid email or password
-				I see an appropriate error message
+```gherkin
+Feature: User Registration on the Demo Website
 
+  As a visitor, I want to register an account so that I can access personalized features on the site.
 
-**Task 2.** `Add two more test cases which you feel would enhance the test coverage of the site`.
+  Acceptance Criteria:
+    - The user must be on the registration page of the demo website to attempt registration.
+    - When the user submits valid and unique credentials (username, email, password), a new account is successfully created.
+    - If the credentials are not unique (e.g., the email or username already exists), the user is informed with an error message stating the issue.
+    - Invalid credentials, such as an incorrectly formatted email or insufficient password complexity, result in an appropriate error message detailing what needs to be corrected.
+    - Upon successful registration, the user is redirected to a confirmation or welcome page indicating successful account creation.
+
+```
+
+## Task 2. Add three more test cases which you feel would enhance the test coverage of the site
+
+Describe additional scenarios you believe are important for testing the registration process, considering various user inputs and system responses.
+
+## Task 3. Generate a test report that is easily readable by non-technical people
+
+Utilize **Extent Reports** or **Allure** to create a comprehensive and visually appealing test report. The report should include detailed test execution results and summaries that facilitate quick understanding for non-technical stakeholders. Include screenshots, error details, and execution timelines in the report to enhance clarity and engagement.
 
 
 ### :file_folder:Platform Choice
@@ -41,7 +50,7 @@ You can use any testing framework / language you are experienced with
 
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.  
 
-- Complete the two tasks described above.
+- Complete the three tasks described above.
 - You should provide clear instructions on your test setup and how to execute your tests. The clarity and precision of these instructions - and the ease with which the interviewers can execute them - will be a key part of the assessment. 
 - Create a README file detailing said instructions. 
 - Please also use this README for listing any additional comments or observations you might want to share about your submission.
@@ -61,7 +70,8 @@ Feel free to spend as much or as little time on the exercise as you like as long
 **Your repository should include:** 
 
 1. a folder containing the technical tests
-2. a [markdown file](https://github.com/winslosh/test-automation-recruitment-test/blob/main/README.md#speech_balloontechnical-questions) with your answers to the Technical Questions 
+2. the test report
+3. a [markdown file](https://github.com/winslosh/test-automation-recruitment-test/blob/main/README.md#speech_balloontechnical-questions) with your answers to the Technical Questions 
 
 :e-mail: Once you've completed all that's required, send the url of your GitHub repository to us for review.
 
